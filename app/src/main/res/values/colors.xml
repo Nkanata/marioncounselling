@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <!-- screen background color -->
+    <color name="screen_14">#FFC300</color>
+    <color name="screen_15">#ff5733</color>
+    <color name="screen_16">#DAF7A6</color>
+
+    <!-- screen colors -->
+    <color name="screen_11">#e0ff33</color>
+    <color name="screen_12">#33bbff</color>
+    <color name="screen_13">#ff335b</color>
+
+
+    <!--- just incase needed -->
+    <color name="screen_17">#33ff58</color>
+    <color name="screen_18">#7C2BCE</color>
+    <color name="screen_19">#ff33c1</color>
+
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+
+
+    <color name="title">#222222</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+    
+    
+    <array name="welcomescreen">
+        <item>@color/screen_11</item>
+        <item>@color/screen_12</item>
+        <item>@color/screen_13</item>
+    </array>
+
+    <array name="backggrounds">
+        <item>@color/screen_17</item>
+        <item>@color/screen_18</item>
+        <item>@color/screen_19</item>
+    </array>
+
+
+
+
+
+
+
+
+
+</resources>

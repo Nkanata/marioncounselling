@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Marion Counselling</string>
+
+    <string name="title_activity_welcome">Welcome to Marions.</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">Start</string>
+
+
+    <string name="slide_1_title">Hello There</string>
+    <string name="slide_1_desc">Welcome to Marions.
+        Get Encouragement Quotes at Any Time you need at your Phone.</string>
+
+    <string name="slide_2_title">  Different Categories</string>
+    <string name="slide_2_desc">Category of Choice of the Quotes you need.</string>
+
+    <string name="slide_3_title">Talk to Our Counsellors</string>
+    <string name="slide_3_desc">The app allows one to talk to our counsellors</string>
+
+    <string name="slide_4_title">Ready??</string>
+    <string name="slide_4_desc">Hit the start button.</string>
+    <string name="SigInText">Welcome. Sign in using your Google account or Email and Password.</string>
+    <string name="emailandpassword">Email and Password</string>
+    <string name="signout">Sign Out</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="genbtn">General Quotes</string>
+    <string name="fambtn">Family Quotes</string>
+    <string name="rehabbtn">Addiction Quotes</string>
+    <string name="grievebtn">Grievin Quotes</string>
+    <string name="maritalbtn">Marital Quotes</string>
+    <string name="categoriesText">Welcome To Marion\'s Counselling.</string>
+    <string name="categoryText">Welcome To Marion\'s Counseling. Choose the category of Quotes you would like to Get.</string>
+    <string name="Subscriptiontext"></string>
+    <string name="feedback">Feedback</string>
+    <string name="schedule">Create a Shcedule</string>
+    <string name="send">Send</string>
+    <string name="comment">Comment</string>
+
+
+</resources>
